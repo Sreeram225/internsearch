@@ -1,6 +1,6 @@
 list1=[1,-2,1]
 list2=[]
-i=int(input())
+i=int(input('how many copies'))
 list2=list1*i
 print(list2)
 cur_sum=[]
